@@ -48,13 +48,14 @@ a {
     font-size: 2rem;
     margin: 0;
     letter-spacing: 1rem;
+    margin-top: 10px;
 }
 .et-hero-tabs h3,
 .et-slide h3 {
     font-size: 1.2rem;
     letter-spacing: 0.3rem;
     opacity: 0.6;
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 .et-hero-tabs-container {
@@ -150,7 +151,7 @@ img {
 @media (min-width: 800px) {
     .et-hero-tabs h1,
     .et-slide h1 {
-        font-size: 3rem;
+        font-size: 2rem;
     }
     .et-hero-tabs h3,
     .et-slide h3 {
